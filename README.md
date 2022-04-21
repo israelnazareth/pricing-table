@@ -1,6 +1,6 @@
 # Tabela de preços
 
-## Tecnologias utilizadas:
+### Tecnologias utilizadas:
   * React.js;
 
   * Bootstrap;
@@ -27,12 +27,12 @@
   * Inicialize o projeto:
     * `npm start` (uma nova página deve abrir no seu navegador com um texto simples)
 
-3. Crie uma branch a partir da branch `master`
+3. Crie uma branch a partir da branch `main`
 
-  * Verifique que você está na branch `master`
+  * Verifique que você está na branch `main`
     * Exemplo: `git branch`
-  * Se não estiver, mude para a branch `master`
-    * Exemplo: `git checkout master`
+  * Se não estiver, mude para a branch `main`
+    * Exemplo: `git checkout main`
   * Agora, crie uma branch onde você vai guardar os commits do seu projeto
 
 ## Enjoy!
