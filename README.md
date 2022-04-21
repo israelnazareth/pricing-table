@@ -5,7 +5,7 @@
 
   * Bootstrap;
 
-  * Link da aplicação:
+  * Link do template: https://your-pricing-table.vercel.app/
 
   * Template criado a partir [deste vídeo](https://www.youtube.com/watch?v=HkT9VR_1r1A).
 
