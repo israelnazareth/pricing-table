@@ -35,6 +35,4 @@
     * Exemplo: `git checkout main`
   * Agora, crie uma branch onde você vai guardar os commits do seu projeto
 
-https://github.com/israelnazareth/
-
 ## Enjoy!
